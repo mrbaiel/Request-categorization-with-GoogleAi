@@ -1,0 +1,13 @@
+ctgry_venv/
+
+.env
+
+*.log
+
+# Игнорируем кэш Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+.idea/
